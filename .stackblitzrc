@@ -1,6 +1,5 @@
 {
-    "installDependencies": false,
-    "startCommand": "pnpm i roli-tools",
+    "installDependencies": true,
     "env": {
         "NODE_ENV": "development"
     }
