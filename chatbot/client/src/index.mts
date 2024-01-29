@@ -7,7 +7,7 @@ await inquirer.prompt([{
     name: 'userName',
     message: "Login: "
 }]).then(async ({userName}) => {    
-    console.log("Username: " + JSON.stringify(userName));
+    console.log("Username: " + userName);
 
     while (true) {
         await inquirer.prompt([{
