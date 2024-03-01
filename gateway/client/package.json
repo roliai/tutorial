@@ -1,8 +1,8 @@
 {
-  "name": "roli-chatbot",
+  "name": "roli-gateway",
   "private": "true",
   "version": "1.0.0",
-  "description": "A chatbot and CLI client built on the Roli platform.",
+  "description": "A chatbot example client for the Roli Generative AI Gateway",
   "source": "src/index.mts",
   "main": "dist/index.mjs",
   "scripts": {
