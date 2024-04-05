@@ -1,7 +1,6 @@
 {
   "exclude": [
-    "dist/**/",
-    "service/**"
+    "dist/**/"
   ],
   "compilerOptions": {
     "target": "ESNext",
