@@ -2,7 +2,7 @@
   "name": "roli-gateway",
   "private": "true",
   "version": "1.0.0",
-  "description": "A chatbot example client for the Roli Generative AI Gateway",
+  "description": "A chatbot example client for a Roli Generative AI Gateway",
   "source": "src/index.ts",
   "main": "dist/index.js",
   "type": "module",
